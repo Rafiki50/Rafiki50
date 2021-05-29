@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Rafiki50
-- 👀 I’m interested in econ, philosphy, and history.  My coding skills are rusty, so I am brushing up with some projects tracking various Covid-related issues for the Chicago area.
+- 👀 I’m interested in econ, philosphy, and history.
 - 🌱 I’m currently learning plotting in R and ML in python.
 - 💞️ I’m not actively looking for collaboration, but I would be a useful teammate on anything related to financial securities and could be talked into helping with projects that interest me.
